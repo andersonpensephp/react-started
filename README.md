@@ -9,19 +9,17 @@
 ```
 git clone git@github.com:andersonpensephp/react-started.git
 
-npm install
+npm install -g yarn
 
-npm start
+yarn install
+
+yarn start
 
 ```
 
 # To test
 
 ```
-npm test
+yarn test
 
 ```
-
-
-
-  
